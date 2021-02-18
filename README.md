@@ -8,7 +8,7 @@
 
 
 ## About Me
-I'm Oğuz who is Full-Stack Developer works for everywhere especially [Fincore](https://fincore.com.tr) from Istanbul, Turkey. I love to code with Laravel - Inertia - Vue - React. I share my project repositories in github.
+I'm Oğuz who is a Full-Stack Developer works for everywhere especially [Fincore](https://fincore.com.tr) from Istanbul, Turkey. I love to code with Laravel - Inertia - Vue - React. I share my project repositories in github.
 
 
 <br></br>
